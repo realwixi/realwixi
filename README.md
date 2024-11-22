@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realwixi" alt="realwixi" /></a> </p>
 
-- 🔭 I’m currently working on [Music App](https://github.com/realwixi/tranqiltonesmusic)
+- 🔭 I’m currently working on [XR/AR/VR]
 
 - 🌱 I’m currently learning **Backend**
 
