@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 📝 I regularly write articles on [https://lifeofrealwixi.blogspot.com/](https://lifeofrealwixi.blogspot.com/)
+- 📝 I regularly write articles on uranus.com
 
 - 💬 Ask me about **Python, C, HTML, CSS, Java and JavaScript**
 
