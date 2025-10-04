@@ -1,31 +1,145 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from hello world</h3>
+# Hi there, I'm Gabriel Prasena Raj! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realwixi&label=Profile%20views&color=0e75b6&style=flat" alt="realwixi" /> </p>
+<div align="center">
+  
+### 🚀 XR/AI Developer | ML Enthusiast | Unity Specialist
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realwixi" alt="realwixi" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gabrielrajofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
 
-- 🔭 I’m currently working on [XR/AR/VR]
+</div>
 
-- 🌱 I’m currently learning **Backend**
+---
 
-- 📝 I regularly write articles on uranus.com
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Python, C, HTML, CSS, Java and JavaScript**
+```python
+class Gabriel:
+    def __init__(self):
+        self.role = "XR AI ML Developer"
+        self.education = "B.E Computer Science @ Aalim Muhammed Salegh College"
+        self.current_focus = ["AI/ML", "AR/VR Development", "Prompt Engineering"]
+        self.location = "Chennai, Tamil Nadu, India"
+        self.passion = "Creating immersive experiences with cutting-edge technology"
+    
+    def get_current_work(self):
+        return [
+            "🎯 Learning Facilitator at Arthevia",
+            "🤝 Co-Founder of Thozhilali Economic Empowerment",
+            "🌱 Student Volunteer at IGEN",
+            "📚 Exploring Large Language Models & Generative AI"
+        ]
+```
 
-- 📫 How to reach me **gabrielrajofficial@gmail.com**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **I think I am Boring**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/realwixi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/realwixi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/gabrielrajoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/gabrielrajoffic1" height="30" width="40" /></a>
-</p>
+### Frameworks & Technologies
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Specializations
+- 🥽 **AR/VR Development** - Unity, C#, Cardboard VR
+- 🤖 **AI/ML** - LLMs, Prompt Engineering, Computer Vision
+- ☁️ **Cloud Computing** - AWS, IBM Watson
+- 🎨 **UI/UX** - Design Thinking, User Interface Design
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realwixi&show_icons=true&locale=en&layout=compact" alt="realwixi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realwixi&show_icons=true&locale=en" alt="realwixi" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+```yaml
+awards:
+  - name: "Best Organizer Award"
+    event: "IGN ENERGATHON 2025"
+    recognition: "Asia Book of Records"
+    
+  - name: "ABR Achiever Certification"
+    completion: "18 watch hours across 3 modules"
+    event: "World Record Marathon (May 17-18, 2025)"
+
+experience:
+  - role: "XR AI ML Intern"
+    company: "E16 AI XR Technology"
+    project: "CAMRING Fuel Injector Profile AI ML"
+    
+  - role: "Learning Facilitator"
+    company: "Arthevia"
+    focus: "Unity AR/VR courses, Python teaching"
+
+publications:
+  - "Development of AR Application for Anatomical Education"
+  - "Smartphone-Based Interaction Methods in Cardboard VR"
+```
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **AI/ML projects** in XR technology
+- 🌱 Learning **Advanced Prompt Engineering** and **LLM fine-tuning**
+- 👯 Looking to collaborate on **AR/VR applications** and **AI-powered tools**
+- 💬 Ask me about **Unity development**, **Python**, or **immersive technologies**
+- ⚡ Fun fact: I've met **Professor Steven M. LaValle**, co-founder of Oculus!
+
+---
+
+## 📚 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on innovative projects, especially in:
+- 🎮 AR/VR/XR Development
+- 🧠 AI/ML Applications
+- 🌐 Full-Stack Web Development
+- 📱 Mobile Applications
+
+<div align="center">
+
+**"Building the future, one immersive experience at a time."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F85D7F&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
