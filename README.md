@@ -106,8 +106,8 @@ publications:
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/realwixi/CareerNav)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/realwixi/simplelogomaker)
 
 </div>
 
