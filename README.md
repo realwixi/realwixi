@@ -18,7 +18,7 @@
 class Gabriel:
     def __init__(self):
         self.role = "XR AI ML Developer"
-        self.education = "B.E Computer Science @ Aalim Muhammed Salegh College"
+        self.education = "B.E Computer Science @ ANNA UNIVERSITY, AMS"
         self.current_focus = ["AI/ML", "AR/VR Development", "Prompt Engineering"]
         self.location = "Chennai, Tamil Nadu, India"
         self.passion = "Creating immersive experiences with cutting-edge technology"
